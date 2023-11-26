@@ -1,0 +1,3 @@
+﻿  RWXFinder.cpp
+S:\MalwareDeveloped\RWXFinder\RWXFinder\RWXFinder\RWXFinder.cpp(57,28): warning C4477: 'printf' : format string '%#18llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PVOID'
+  RWXFinder.vcxproj -> S:\MalwareDeveloped\RWXFinder\RWXFinder\x64\Debug\RWXFinder.exe
